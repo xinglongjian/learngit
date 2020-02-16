@@ -2,3 +2,17 @@ hello world
 555
 777
 update bugfix-234
+int a()
+{
+
+
+}
+
+
+int b()
+{
+
+
+
+}
+
