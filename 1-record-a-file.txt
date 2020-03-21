@@ -6,4 +6,4 @@ bbb
 ccc
 ddd
 add hook
-add hook
+edit in ide
